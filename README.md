@@ -25,7 +25,7 @@
 > - 개발기간 : 2024.07.02-11.25
 > - 핵심 역할 : 로그인 서비스와 db연동, 홈화면 구현, 채팅 기능 구현
 >   
-> - language : java, xml
+> - language : java
 > - skill : android studio, firebase
 > - [프로젝트 상세 설명]()
 
